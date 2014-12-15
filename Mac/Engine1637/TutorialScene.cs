@@ -58,9 +58,7 @@ namespace Engine1637 {
             vertexBuffer = vb.ToArray();
 
           // Camera.Device.RenderState.CullMode = CullMode.None;
-
-            RasterizerState rasterizerState1 = new RasterizerState();
-            rasterizerState1.CullMode = CullMode.None;
+             Camera.Device.RasterizerState = RasterizerState.CullNone;
 
             BasicEffect effect = new BasicEffect(Camera.Device);
 
