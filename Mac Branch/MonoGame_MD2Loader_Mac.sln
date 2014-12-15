@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame_MD2Loader_Mac", "MonoGame_MD2Loader_Mac\MonoGame_MD2Loader_Mac.csproj", "{923004A3-239A-4648-8DE5-CE4366D2EB67}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame_MD2Loader_Mac", "MonoGame_MD2Loader_Mac.csproj", "{923004A3-239A-4648-8DE5-CE4366D2EB67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,6 +18,6 @@ Global
 		{923004A3-239A-4648-8DE5-CE4366D2EB67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = MonoGame_MD2Loader_Mac\MonoGame_MD2Loader_Mac.csproj
+		StartupItem = MonoGame_MD2Loader_Mac.csproj
 	EndGlobalSection
 EndGlobal
