@@ -1,0 +1,29 @@
+
+================================================================================
+
+Model:		Goblin <Goblin/model.md2>
+Author:		'Conrad' <con@telia.com>
+
+	Skin:		Red Goblin <Goblin/Skins/red-goblin.jpg>
+	Author:		'Conrad' <con@telia.com>
+	
+	Skin:		Stone Goblin <Goblin/Skins/stone-goblin.jpg>
+	Author:		Matthew Lynch <lynch82@gmail.com>
+	Notes:		Derivative of the 'Red Goblin' skin.
+	
+	Skin:		Ice Goblin <Goblin/Skins/ice-goblin.jpg>
+	Author:		Matthew Lynch <lynch82@gmail.com>
+	Notes:		Derivative of the 'Red Goblin' skin.
+	
+================================================================================
+
+Model:		Knight <Knight/model.md2>
+Author:		James Green <james@perilith.com>
+
+	Skin:		Standard Knight <Knight/Skins/standard-knight.jpg>
+	Author:		James Green <james@perilith.com>
+	
+	Skin:		Dark Knight <Knight/Skins/dark-knight.jpg>
+	Author:		Ryan "MrRogers" Butts <ryan@sunstorm.net>
+	
+================================================================================
