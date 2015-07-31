@@ -7,6 +7,6 @@ I ported the MD2 Loader by Matthew Lynch from XNA 1.0 to XNA 4.0 / MonoGame.
 
 Original can be found here: https://sourceforge.net/projects/xnamd2/
 
-The Mac version is seperated, because I had to make some little changes in the code.
+The Mac version is seperated, because I had to make some little changes to the code.
 
 
